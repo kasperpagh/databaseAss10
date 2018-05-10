@@ -4,5 +4,5 @@
 
 
 
-![ER](https://github.com/kasperpagh/databaseAss10/blob/master/data1.jpg)
+[ER_dia](https://github.com/kasperpagh/databaseAss10/blob/master/data1.jpg)
 
